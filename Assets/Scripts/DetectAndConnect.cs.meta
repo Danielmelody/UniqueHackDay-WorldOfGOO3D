@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12e81c6142b6d41e3827c97d42d3cc82
+timeCreated: 1496502632
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - parent: {instanceID: 0}
+  - laserProto: {fileID: 1364867054683984, guid: 6c2be7f44637c44dbaf3a30552d2572e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
